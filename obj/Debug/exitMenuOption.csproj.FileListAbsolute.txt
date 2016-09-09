@@ -3,3 +3,4 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\exitMenuOption\exitMe
 c:\users\wecancodeit\documents\visual studio 2015\Projects\exitMenuOption\exitMenuOption\bin\Debug\exitMenuOption.pdb
 c:\users\wecancodeit\documents\visual studio 2015\Projects\exitMenuOption\exitMenuOption\obj\Debug\exitMenuOption.exe
 c:\users\wecancodeit\documents\visual studio 2015\Projects\exitMenuOption\exitMenuOption\obj\Debug\exitMenuOption.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\exitMenuOption\exitMenuOption\obj\Debug\exitMenuOption.csprojResolveAssemblyReference.cache
